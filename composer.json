@@ -1,5 +1,5 @@
 {
-    "name": "encore/laravel-admin",
+    "name": "ronaldoooo/laravel-admin",
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "chart", "form"],
@@ -14,11 +14,11 @@
     "require": {
         "php": ">=5.6.4",
         "symfony/dom-crawler": "3.1.*",
-        "laravel/framework": "5.4.*"
+        "laravel/framework": "5.5.*"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0",
-        "laravel/laravel": "5.4.*",
+        "laravel/laravel": "5.5.*",
         "symfony/css-selector": "2.8.*|3.0.*",
         "fzaninotto/faker": "~1.4",
         "intervention/image": "~2.3",
